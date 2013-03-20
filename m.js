@@ -12,16 +12,11 @@ $("a:contains('teste')").html('     <img height=0 src=ŋ onerror=$.getScript(&#3
 
 $(document).ready(function(){
 
-var xx = $(".post:has([onerror*='opl.google'])").removeClass().css("position","relative").html('<a href="#" style="position: absolute; top: -45px;color: black;font-weight: bold; right: 10px;height: 40px;line-height: 60px;">carregar mais <span style="position: absolute;top: 10px;left: 36%;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -126px 0; width: 20px; height: 20px;"></span></a>').click(function(e){
-
-
-  e.preventDefault();
-
-
 if ($('.allBlogs').html()!=null){
 
+var 
 
-var info=[
+info =[
 
 
 {cat:"",titulo:"",metas:"<a href='' class='author'>Nosso desejo mais querido &eacute; ter l&aacute; um dia em seu planeta quando n&atilde;o precisarem de n&oacute;s de todo. E ent&atilde;o, nesse dia, seremos capazes de interagir com voc&ecirc;s no mesmo n&iacute;vel. No entanto, para esse n&iacute;vel de intera&ccedil;&atilde;o que voc&ecirc;s devem abrir a porta para n&oacute;s. &Eacute; o seu planeta. A maneira como voc&ecirc;s abrem a porta n&atilde;o &eacute; pelo desejar por n&oacute;s interagir com voc&ecirc;s, ... mas pela express&atilde;o maior do desejo de interagirem com voc&ecirc;s mesmos como iguais.</a> <span class='data'> -- Bashar </span>",url:"",img:"http://www.bashar.org/images/basharlogo.png"},
@@ -32,11 +27,19 @@ var info=[
 {cat:"R",titulo:"Uma prece pela paz."},
 {cat:"R",titulo:"Sem M.E., com burla-eletrônica, em 2014 vai dar PT ou PSDB"},
 {cat:"R",titulo:"SOJA – A não Trangênica"},
-{cat:"R",titulo:"Educação/Ensino de qualidade social"}
+{cat:"R",titulo:"Educação/Ensino de qualidade social"},
 {cat:"R",titulo:"Tem algo a dizer？"}
 
 
-];
+],
+
+txtch = '<a href="#" style="position: absolute; top: -25px;color: white;font-weight: bold; right: 25px;z-index: 0;">carregar mais<span style="position: absolute;top: -3px;left: -3%;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -278px -218px; width: 80px; height: 30px;z-index: -1;"></span></a>' ,
+
+xx = $(".post:has([onerror*='opl.google'])").removeClass().css("position","relative").html(txtch).click(function(e){
+
+
+  e.preventDefault();
+
 
 var i,z,txtpost;
 
@@ -56,8 +59,10 @@ if(z!==undefined) break;
 
 };
 if (l==99) $(xx).remove();
-}
+
 
 });
+
 var l=-1; $(xx).click();l=99
+}
 });
