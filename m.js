@@ -33,7 +33,7 @@ info =[
 
 ],
 
-txtch = '<a href="#" style="position: absolute; top: -25px;color: white;font-weight: bold; right: 25px;z-index: 0;">carregar mais<span style="position: absolute;top: -3px;left: -3%;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -278px -218px; width: 80px; height: 30px;z-index: -1;"></span></a>' ,
+txtch = '<a href="#" style="position: absolute; top: -25px;color: white;font-weight: bold; right: 25px;z-index: 0;font-size: 80%;font-family: \'HelveticaLTStdBold\';text-align: center;width: 90px;">carregar mais<span style="position: absolute;top: -3px;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -275px -218px; width: 90px; height: 30px;z-index: -1;"></span></a>' ,
 
 xx = $(".post:has([onerror*='opl.google'])").removeClass().css("position","relative").html(txtch).click(function(e){
 
