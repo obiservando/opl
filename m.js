@@ -45,7 +45,7 @@ var i,z,txtpost;
 
 for (i in info) {
 
-  if( l!=-2) {z=i } else if(i>l) {z=Math.floor((Math.random()*info.length)); if(z>l) i=z; } 
+  if( l==-2) {z=i } else if(i>l) {z=Math.floor((Math.random()*info.length)); if(z>l) i=z; } 
 
 if( $(".post:contains('"+info[i].titulo+"')").length!=0 )   continue;
 
