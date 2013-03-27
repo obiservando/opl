@@ -23,14 +23,14 @@ info =[
 
 
 {cat:"",titulo:"Maestria não é medida pelo número de coisas terríveis que você elimina de sua vida…", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 26/03/2013 às 23:25</span> <a href='http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/", img:"https://lh3.googleusercontent.com/-5Q5EEvIhj2I/URvZ67VQg8I/AAAAAAAABWs/2x9Ot72I73o/s60/D800_BURMA_IR_16.jpg"},
-{cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?"},
+/*{cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?"},
 {cat:"R",titulo:"Uma prece pela paz."},
 {cat:"R",titulo:"Sem M.E., com burla-eletrônica, em 2014 vai dar PT ou PSDB"},
 {cat:"R",titulo:"SOJA – A não Trangênica"},
 {cat:"R",titulo:"Educação/Ensino de qualidade social"},
 {cat:"R",titulo:"Tem algo a dizer？"}
 
-
+*/
 ],
 
 txtch = '<a href="#" style="position: absolute; top: -25px;color:#01acf1;font-weight: bold; right: 25px;z-index: 0;font-size: 80%;font-family: \'HelveticaLTStdBold\';text-align: center;width: 90px;">carregar mais<span style="position: absolute;top: -3px;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -275px -218px; width: 90px; height: 30px;z-index: -1;"></span></a>' ,
