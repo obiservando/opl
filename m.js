@@ -19,7 +19,7 @@ var
 info =[
 
 
-{cat:"",titulo:"Maestria não é medida pelo número de coisas terríveis que você elimina de sua vida…", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 26/03/2013 às 23:25</span> <a href='http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/' class='comments' title=''> / opine </a><img src=//goo.gl/SsFbB style=height:0px;>",url:"http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/", img:"https://lh3.googleusercontent.com/-5Q5EEvIhj2I/URvZ67VQg8I/AAAAAAAABWs/2x9Ot72I73o/s60/D800_BURMA_IR_16.jpg"},
+{cat:"",titulo:"Maestria não é medida pelo número de coisas terríveis que você elimina de sua vida…", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 26/03/2013 às 23:25</span> <a href='http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/' class='comments' title=''> / opine </a>",url:"http://goo.gl/7w7Bf"},
 {cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?"},
 {cat:"R",titulo:"Uma prece pela paz."},
 {cat:"R",titulo:"Sem M.E., com burla-eletrônica, em 2014 vai dar PT ou PSDB"},
