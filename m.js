@@ -62,6 +62,6 @@ if (l==99 || info.length==1 ) $(xx).remove();
 
 });
 
-var l=-2; $(xx).click();l=99
+var l=0; $(xx).click();l=99
 }
 });
