@@ -19,7 +19,7 @@ var
 info =[
 
 
-  {cat:"",titulo:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 12/04/2013 às 16:29 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora%EF%BC%9F/' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora%EF%BC%9F/", img:"http://goo.gl/7w7Bf",p:0},
+  {cat:"",titulo:"O que você vai fazer agora?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 12/04/2013 às 16:29 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora/", img:"http://goo.gl/7w7Bf",p:0},
 
 {cat:"R",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO",p:0},
 
