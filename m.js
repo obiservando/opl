@@ -18,7 +18,10 @@ var
 
 info =[
 
-  {cat:"",titulo:"Maestria não é medida pelo número de coisas terríveis que você elimina de sua vida…", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 26/03/2013 às 23:25</span> <a href='http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/educacao/forum/topic/maestria/", img:"http://goo.gl/7w7Bf",p:0},
+
+  {cat:"",titulo:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 12/04/2013 às 16:29 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora%EF%BC%9F/' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora%EF%BC%9F/", img:"http://goo.gl/7w7Bf",p:0},
+
+{cat:"R",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO",p:0},
 
   {cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?",p:0},
   {cat:"R",titulo:"Uma prece pela paz.",p:0},
