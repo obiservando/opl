@@ -28,7 +28,7 @@ info =[
  {cat:"R",titulo:"Sem M.E., com burla-eletrônica, em 2014 vai dar PT ou PSDB",p:0},
   {cat:"R",titulo:"SOJA – A não Trangênica",p:0},
   {cat:"R",titulo:"Educação/Ensino de qualidade social",p:0},
-  {cat:"",titulo:"",metas:"<a href='' class='author'>Nosso desejo mais querido &eacute; ter l&aacute; um dia em seu planeta quando n&atilde;o precisarem de n&oacute;s de todo. E ent&atilde;o, nesse dia, seremos capazes de interagir com voc&ecirc;s no mesmo n&iacute;vel. No entanto, para esse n&iacute;vel de intera&ccedil;&atilde;o que voc&ecirc;s devem abrir a porta para n&oacute;s. &Eacute; o seu planeta. A maneira como voc&ecirc;s abrem a porta n&atilde;o &eacute; pelo desejar por n&oacute;s interagir com voc&ecirc;s, ... mas pela express&atilde;o maior do desejo de interagirem com voc&ecirc;s mesmos como iguais.</a> <span class='data'> -- Bashar </span>",url:"",img:"http://www.bashar.org/images/basharlogo.png",p:0},
+
   {cat:"R",titulo:"Tem algo a dizer？",p:0}
 
 
