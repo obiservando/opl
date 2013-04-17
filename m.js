@@ -18,7 +18,7 @@ var
 
 info =[
 
-  {cat:"",titulo:"As palavras são a fonte menos confiável da Verdade.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 17/04/2013 às 10:51 </span> <a href=http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/#comments' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/", img:"https://lh5.googleusercontent.com/-VyrEnxqEApk/USCjgllGgPI/AAAAAAAABNY/L5NyneX99qk/s100/StrawberriesHigh_29C5465.jpg",p:0},
+  {cat:"",titulo:"As palavras são a fonte menos confiável da Verdade.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 17/04/2013 às 10:51 </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/#comments' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/", img:"https://lh5.googleusercontent.com/-VyrEnxqEApk/USCjgllGgPI/AAAAAAAABNY/L5NyneX99qk/s100/StrawberriesHigh_29C5465.jpg",p:0},
 
   {cat:"",titulo:"Informação à Imprensa: MÍDIA ESCONDE PROCESSO CONTRA AÉCIO [por lauro esteves]", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 17/04/2013 às 10:51 </span> <a href='http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/#comments' class='comments' title=''> / 27+ opiniões </a>",url:"http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/", img:"http://i.imgur.com/Bkff2xns.jpg",p:0},
 
