@@ -19,9 +19,9 @@ var
 info =[
 
 
-  {cat:"",titulo:"O que você vai fazer agora?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'>em 12/04/2013 às 16:29 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora' class='comments' title=''> / opine </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/o-que-voce-vai-fazer-agora/", img:"http://goo.gl/7w7Bf",p:0},
+  {cat:"",titulo:"Informação à Imprensa:MÍDIA ESCONDE PROCESSO CONTRA AÉCIO [por lauro esteves]", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 17/04/2013 às 10:51 </span> <a href='http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/#comments' class='comments' title=''> / 27+ opiniões </a>",url:"http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/", img:"http://goo.gl/7w7Bf",p:0},
 
-{cat:"R",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO",p:0},
+
 
   {cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?",p:0},
   {cat:"R",titulo:"Uma prece pela paz.",p:0},
