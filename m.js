@@ -20,6 +20,10 @@ info =[
 
  {cat:"",titulo:"PT♥PSDB: PerFeitos um para o outro.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 20/04/2013 às 11:14 </span> <a href='http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/", img:"http://3.bp.blogspot.com/-IUhQMxTvQls/T3RwAx1rumI/AAAAAAAAFh0/FhjAmA58xbg/s60/PSDB+COM+PT.jpg",p:0},
 
+{cat:"",titulo:"10 Estratégias de Manipulação Midiática", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 22/04/2013 às 14:40  </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/", img:"http://4.bp.blogspot.com/_GrBPCsNjVJQ/TSMJKrKyJjI/AAAAAAAAAqA/Pk_Dj6mxaBw/s60/aten%25C3%25A7%25C3%25A3o_manipula%25C3%25A7%25C3%25A3o.png",p:0},
+
+
+
   {cat:"",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO", metas:"<a href='' class='author'>Por lauro esteves</a>, <span class='data'> em 11/04/2013 às 11:57  </span> <a href='http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/", img:"http://i.imgur.com/Bkff2xns.jpg",p:0},
 
 
@@ -53,7 +57,7 @@ var i,z,txtpost;
 
 for (i in info) {
 
-  if( l==-3) {z=i } else if( l==-3){l=-2}  else if( l==-4){l=-3}  else if(i>l) {z=Math.floor((Math.random()*info.length)); if(z>l) i=z; } 
+  if( l==-2) {z=i } else if( l==-3){l=-2}  else if( l==-4){l=-3}  else if(i>l) {z=Math.floor((Math.random()*info.length)); if(z>l) i=z; } 
 
 if( info[i].p!=0 )   continue;
 
@@ -69,6 +73,6 @@ if (l==99 || info.length==1 ) $xx.remove();
 
 });
 
-var l=-2; $xx.click();l=99
+var l=-3; $xx.click();l=99
 }
 });
