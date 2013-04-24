@@ -19,11 +19,10 @@ var
 info =[
 
 
- {cat:"",titulo:"A Marcha da Tirania", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em  27/03/2013 às 23:18 </span> <a href='http://www.observadorpolitico.org.br/grupos/politica-2/forum/topic/la-marcha-de-la-tirania/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/politica-2/forum/topic/la-marcha-de-la-tirania", img:"http://i.imgur.com/yqisSA4s.jpg",p:0},
+
+
+ {cat:"",titulo:"PT♥PSDB: PerFeitos um para o outro.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 20/04/2013 às 11:14 </span> <a href='http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/", img:"http://3.bp.blogspot.com/-IUhQMxTvQls/T3RwAx1rumI/AAAAAAAAFh0/FhjAmA58xbg/s60/PSDB+COM+PT.jpg",p:0},
  
-
-  {cat:"",titulo:"Qual é a melhor escolha?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 18/04/2013 às 11:06 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/qual-e-a-melhor-escolha/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/qual-e-a-melhor-escolha/", img:"https://lh4.googleusercontent.com/-lR5gLLgckqE/TU1eYDeuqEI/AAAAAAAADzk/3CnpTzmpWIE/s100/Your%252520Choice%252520is%252520Your%252520Way.jpg",p:0},
-
 
   {cat:"",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO", metas:"<a href='' class='author'>Por lauro esteves</a>, <span class='data'> em 11/04/2013 às 11:57  </span> <a href='http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/", img:"http://i.imgur.com/Bkff2xns.jpg",p:0},
 
@@ -35,6 +34,9 @@ info =[
   {cat:"R",titulo:"Educação/Ensino de qualidade social",p:0},
   
   {cat:"",titulo:"As palavras são a fonte menos confiável da Verdade.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 17/04/2013 às 10:51 </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/#comments' class='comments' title=''> /  opinar  </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/informacao-a-imprensa-2/", img:"https://lh5.googleusercontent.com/-VyrEnxqEApk/USCjgllGgPI/AAAAAAAABNY/L5NyneX99qk/s100/StrawberriesHigh_29C5465.jpg",p:0},
+
+  {cat:"",titulo:"Qual é a melhor escolha?", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 18/04/2013 às 11:06 </span> <a href='http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/qual-e-a-melhor-escolha/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/mundo-2/forum/topic/qual-e-a-melhor-escolha/", img:"https://lh4.googleusercontent.com/-lR5gLLgckqE/TU1eYDeuqEI/AAAAAAAADzk/3CnpTzmpWIE/s100/Your%252520Choice%252520is%252520Your%252520Way.jpg",p:0},
+
 
   {cat:"R",titulo:"Tem algo a dizer？",p:0}
 
@@ -71,6 +73,6 @@ if (l==99 || info.length==1 ) $xx.remove();
 
 });
 
-var l=-4; $xx.click();l=99
+var l=-2; $xx.click();l=99
 }
 });
