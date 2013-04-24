@@ -22,14 +22,11 @@ info =[
 
 {cat:"",titulo:"10 Estratégias de Manipulação Midiática", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 22/04/2013 às 14:40  </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/", img:"http://4.bp.blogspot.com/_GrBPCsNjVJQ/TSMJKrKyJjI/AAAAAAAAAqA/Pk_Dj6mxaBw/s60/aten%25C3%25A7%25C3%25A3o_manipula%25C3%25A7%25C3%25A3o.png",p:0},
 
-
-
   {cat:"",titulo:"MÍDIA ESCONDE PROCESSO CONTRA AÉCIO", metas:"<a href='' class='author'>Por lauro esteves</a>, <span class='data'> em 11/04/2013 às 11:57  </span> <a href='http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/eleicoes-2/forum/topic/midia-esconde-processo-contra-aecio/", img:"http://i.imgur.com/Bkff2xns.jpg",p:0},
 
 
   {cat:"R",titulo:"O uso de robôs para manipular e direcionar a opinião nas redes?",p:0},
   {cat:"R",titulo:"Uma prece pela paz.",p:0},
- {cat:"R",titulo:"Sem M.E., com burla-eletrônica, em 2014 vai dar PT ou PSDB",p:0},
   {cat:"R",titulo:"SOJA – A não Trangênica",p:0},
   {cat:"R",titulo:"Educação/Ensino de qualidade social",p:0},
   
@@ -73,6 +70,6 @@ if (l==99 || info.length==1 ) $xx.remove();
 
 });
 
-var l=-3; $xx.click();l=99
+var l=-4; $xx.click();l=99
 }
 });
