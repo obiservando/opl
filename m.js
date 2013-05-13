@@ -20,7 +20,9 @@ info =[
 
 
   {cat:"R",titulo:"Atenção: Robô AÉzista rouba identidade de Elton Luis Gouvêa e escandaliza OP",p:0},
-{cat:"tecnologia",titulo:"<button type='button' onclick='$(\'.detailSeta\').click();int=setInterval(function(){$(\'.post:has(.user-9458-avatar,.user-7268-avatar)\').hide()},3000)' >Clique aqui para ocultar robôs Barbara e Juca</button>",p:0},
+
+{cat:"",titulo:"<button type='button' onclick='$(\\'.detailSeta\\').click();int=setInterval(function(){$(\\'.post:has(.user-9458-avatar,.user-7268-avatar)\\').hide()},3000)' >Clique aqui para ocultar robôs Barbara e Juca</button>",metas:"",url:"",img:"",p:0},
+
 
  {cat:"",titulo:"PT♥PSDB: PerFeitos um para o outro.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 20/04/2013 às 11:14 </span> <a href='http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/", img:"http://3.bp.blogspot.com/-IUhQMxTvQls/T3RwAx1rumI/AAAAAAAAFh0/FhjAmA58xbg/s60/PSDB+COM+PT.jpg",p:0},
 
