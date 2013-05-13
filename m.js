@@ -18,6 +18,9 @@ var
 
 info =[
 
+  
+ {cat:"R",titulo:"Agora sim, deixaram o OP se acabar!",p:0},
+  
   {cat:"R",titulo:"Atenção: Robô AÉzista rouba identidade de Elton Luis Gouvêa e escandaliza OP",p:0},
 
   {cat:"",titulo:"<button id=\"norobot\" type=\"button\" onclick=\"$('.detailSeta').click();$('.boxBlue p').append('(sem_robôs)');int=setInterval(function(){$('.post:has(.user-9463-avatar,.user-9458-avatar,.user-7268-avatar,#norobot)').hide()},3000)\" >Clique aqui para ocultar robôs Barbara, Juca e Braulio</button>",metas:"Dica: clique no botão “mais recentes” para atualizar a lista de discussões e manter o script funcionando. ",url:"",img:"http://i.imgur.com/sbaWUoQs.jpg",p:0},
@@ -74,6 +77,6 @@ if (l==99 || info.length==1 ) $xx.remove();
 
 });
 
-var l=-3; $xx.click();l=99
+var l=-4; $xx.click();l=99
 }
 });
