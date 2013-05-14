@@ -21,9 +21,9 @@ info =[
   
  {cat:"R",titulo:"Agora sim, deixaram o OP se acabar!",p:0},
  
- {cat:"R",titulo:" Aécio Neves e o Spam",p:0}, 
+ {cat:"R",titulo:"Aécio Neves e o Spam",p:0}, 
 
-{cat:"",titulo:"<button id=\"norobot\" type=\"button\" onclick=\"$('.detailSeta').click();$('.boxBlue p').append('(sem_robôs)');int=setInterval(function(){$('.post:has(.user-9463-avatar,.user-9458-avatar,.user-7268-avatar,#norobot)').hide()},3000)\" >Clique aqui para ocultar robôs Barbara, Juca e Braulio</button> <button type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('(sem_robôs)');int2=setInterval(function(){$('.post:has(.user-8993-avatar,)').hide()},3000)\" >Elton</button>",metas:"Dicas: clique no botão “mais recentes” para atualizar a lista de discussões e manter o script funcionando;<br>Clique com o botão direito no link ou título da discussão e escolha abrir em uma nova guia ou janela.",url:"",img:"http://i.imgur.com/sbaWUoQs.jpg",p:0},
+{cat:"",titulo:"<button id=\"norobot\" type=\"button\" onclick=\"$('.detailSeta').click();$('.boxBlue p').append('(sem_robôs)');int=setInterval(function(){$('.post:has(.user-9463-avatar,.user-9458-avatar,.user-7268-avatar,#norobot)').hide()},3000)\" >Clique aqui para ocultar robôs Barbara, Juca e Braulio</button> <button type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('(sem_Elton)');int2=setInterval(function(){$('.post:has(.user-8993-avatar,)').hide()},3000)\" >Elton</button>",metas:"Dicas: clique no botão “mais recentes” para atualizar a lista de discussões e manter o script funcionando;<br>Clique com o botão direito no link ou título da discussão e escolha abrir em uma nova guia ou janela.",url:"",img:"http://i.imgur.com/sbaWUoQs.jpg",p:0},
 
   {cat:"R",titulo:"Atenção: Robô AÉzista rouba identidade de Elton Luis Gouvêa e escandaliza OP",p:0},
 
