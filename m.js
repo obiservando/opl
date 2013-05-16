@@ -19,14 +19,13 @@ var
 info =[
 
   
- {cat:"R",titulo:"Agora sim, deixaram o OP se acabar!",p:0},
+ {cat:"R",titulo:"PROPAGANDA ELEITORAL DO PSDB",p:0},
  
  {cat:"R",titulo:"Aécio Neves e o Spam",p:0}, 
 
 {cat:"",titulo:"<button id=\"norobot\" type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('sem_robôs');int=setInterval(function(){$('.post:has(.user-9463-avatar,.user-9458-avatar,.user-7268-avatar,#norobot)').hide()},3000)\" >Clique aqui para ocultar robôs Barbara, Juca e Braulio</button> <button type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('_E');int2=setInterval(function(){$('.post:has(.user-8993-avatar,)').hide()},3000)\" >Elton</button>",metas:"Dicas: clique no botão [Mais recentes] para atualizar a lista de discussões e manter o script funcionando;<br>Clique com o botão direito no link ou título da discussão e escolha abrir em uma nova guia ou janela;<br>Numa alternativa ao uso dos botões de ocultar, experimente o botão [Mais discutidas] —somente as postagens que tem comentários aparecem na lista.",url:"",img:"http://i.imgur.com/sbaWUoQs.jpg",p:0},
 
-  {cat:"R",titulo:"Atenção: Robô AÉzista rouba identidade de Elton Luis Gouvêa e escandaliza OP",p:0},
-
+  
  {cat:"",titulo:"PT♥PSDB: PerFeitos um para o outro.", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 20/04/2013 às 11:14 </span> <a href='http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/cultura/forum/topic/pt%e2%99%a5psdb-perfeitos-um-para-o-outro/", img:"http://3.bp.blogspot.com/-IUhQMxTvQls/T3RwAx1rumI/AAAAAAAAFh0/FhjAmA58xbg/s60/PSDB+COM+PT.jpg",p:0},
 
 {cat:"",titulo:"10 Estratégias de Manipulação Midiática", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> em 22/04/2013 às 14:40  </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/#comments' class='comments' title=''> / opinar </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/10-estrategias-de-manipulacao-midiatica/", img:"http://4.bp.blogspot.com/_GrBPCsNjVJQ/TSMJKrKyJjI/AAAAAAAAAqA/Pk_Dj6mxaBw/s60/aten%25C3%25A7%25C3%25A3o_manipula%25C3%25A7%25C3%25A3o.png",p:0},
