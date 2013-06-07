@@ -18,6 +18,8 @@ var
 
 info =[
 
+{cat:"Comunication",titulo:"Ver <button type=\"button\" onclick=\"document.getElementById('forum_embed').style.height='560px';document.getElementById('forum_embed').src ='https://groups.google.com/forum/embed/?place=forum/opmais&showsearch=false&showpopout=true&showtabs=false&hideforumtitle=true&parenturl=https%3A%2F%2Fgroups.google.com%2Fforum%2F';\">Discussões Anexas</button> ou <button type=\"button\" onclick=\"document.getElementById('forum_embed').style.height='560px';document.getElementById('forum_embed').src ='http://opsbr.chatango.com/group';\">Bate-Papo</button><br><iframe id=\"forum_embed\" src=\"javascript:void(0)\" style=\"width:100%;height:0px;\"></iframe>",metas:"",url:"",img:"http://i.imgur.com/IWi48drs.jpg?1",p:0},
+
   
  {cat:"R",titulo:"PROPAGANDA ELEITORAL DO PSDB",p:0},
  
@@ -78,6 +80,6 @@ if (l==99 || info.length==1 ) $xx.remove();
 
 });
 
-var l=-4; $xx.click();l=99
+var l=-2; $xx.click();l=99
 }
 });
